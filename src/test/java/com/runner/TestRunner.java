@@ -13,12 +13,16 @@ import org.junit.runner.RunWith;
         plugin = {"pretty", "json:target/cucumber.json"},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         tags = " @cardnumber"
 =======
         tags = " @notallowed"
 >>>>>>> Stashed changes
 =======
         tags = " @notallowed"
+>>>>>>> Stashed changes
+=======
+        tags = "  @cardnumberError or  @cardnumber "
 >>>>>>> Stashed changes
 )
 

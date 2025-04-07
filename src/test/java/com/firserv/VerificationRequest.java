@@ -1,5 +1,10 @@
 package com.firserv;
 
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
 public class VerificationRequest {
 
     private String cardNumber;
