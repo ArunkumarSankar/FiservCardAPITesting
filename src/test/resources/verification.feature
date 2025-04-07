@@ -6,6 +6,9 @@ Feature: Verification Search - Cards API
     Given User have a valid API endpoint
     And User set the request header as "Content-Type" with value "application/json"
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   @cardnumber
   Scenario Outline: Search with a valid card number

@@ -12,7 +12,11 @@ import org.junit.runner.RunWith;
         ,glue = "com.step",
         plugin = {"pretty", "json:target/cucumber.json"},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         tags = " @cardnumber"
+=======
+        tags = " @notallowed"
+>>>>>>> Stashed changes
 =======
         tags = " @notallowed"
 >>>>>>> Stashed changes
