@@ -6,7 +6,8 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.Assert;
+import org.junit.Assert;
+
 
 import java.io.File;
 import java.io.FileInputStream;

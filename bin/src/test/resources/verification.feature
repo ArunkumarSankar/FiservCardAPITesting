@@ -1,19 +1,12 @@
 Feature: Verification Search - Cards API
 
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
-
->>>>>>> Stashed changes
   Background:
     Given User have a valid API endpoint
     And User set the request header as "Content-Type" with value "application/json"
 
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
